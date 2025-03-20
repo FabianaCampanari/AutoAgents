@@ -100,7 +100,7 @@ langchain==0.0.231
 langchainplus-sdk==0.0.20
 langcodes==3.3.0
 langsmith==0.0.33
-litellm==0.7.5
+litellm==1.53.1.dev1
 loguru==0.6.0
 lxml==4.9.2
 Markdown==3.3.7
