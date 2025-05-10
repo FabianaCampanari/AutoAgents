@@ -76,7 +76,7 @@ gradio==3.44.4
 gradio_client==0.5.1
 greenlet==2.0.2
 gTTS==2.3.1
-h11==0.14.0
+h11==0.16.0
 httpcore==0.17.0
 httplib2==0.22.0
 httpx==0.24.0
