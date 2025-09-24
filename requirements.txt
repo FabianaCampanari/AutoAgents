@@ -137,7 +137,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.5.0
 pinecone-client==2.2.1
-pip==23.0.1
+pip==25.2
 platformdirs==3.5.1
 playsound==1.2.2
 pluggy==1.0.0
