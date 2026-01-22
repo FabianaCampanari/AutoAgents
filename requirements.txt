@@ -238,7 +238,7 @@ wcwidth==0.2.6
 webdriver-manager==3.8.6
 websocket-client==1.5.1
 websockets==11.0.3
-wheel==0.38.4
+wheel==0.46.2
 wrapt==1.15.0
 wsproto==1.2.0
 yarl==1.9.2
