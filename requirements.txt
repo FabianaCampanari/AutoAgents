@@ -125,7 +125,7 @@ openapi-python-client==0.13.4
 openapi-schema-pydantic==1.2.4
 opencv-python==4.8.0.76
 openpyxl==3.2.0b1
-orjson==3.8.10
+orjson==3.11.5
 outcome==1.2.0
 packaging==23.1
 pandas==1.4.1
